@@ -38,4 +38,9 @@ public class day2 {
     {
         System.out.println("PersonalLoan11");
     }
+    @Test(groups = {"Smoke"})
+    public void PersonalLoan12()
+    {
+        System.out.println("PersonalLoan12");
+    }
 }
