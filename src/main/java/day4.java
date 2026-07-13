@@ -21,8 +21,18 @@ public class day4 {
         System.out.println("APILoginHomeLoan");
     }
     @Test
+    public void WebSignOutHomeLoan()
+    {
+        System.out.println("WebSignOutHomeLoan");
+    }
+    @Test
     public void MobileSignOutHomeLoan()
     {
         System.out.println("MobileSignOutHomeLoan");
+    }
+    @Test
+    public void APISignOutHomeLoan()
+    {
+        System.out.println("APISignOutHomeLoan");
     }
 }
