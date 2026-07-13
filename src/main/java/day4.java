@@ -21,6 +21,11 @@ public class day4 {
         System.out.println("APILoginHomeLoan");
     }
     @Test
+    public void BrowserstackLoginHomeLoan()
+    {
+        System.out.println("BrowserstackLoginHomeLoan");
+    }
+    @Test
     public void WebSignOutHomeLoan()
     {
         System.out.println("WebSignOutHomeLoan");
@@ -34,5 +39,10 @@ public class day4 {
     public void APISignOutHomeLoan()
     {
         System.out.println("APISignOutHomeLoan");
+    }
+    @Test
+    public void BrowserstackSignOutHomeLoan()
+    {
+        System.out.println("BrowserstackSignOutHomeLoan");
     }
 }
