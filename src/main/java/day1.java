@@ -26,5 +26,10 @@ public class day1 {
     {
         System.out.println("PersonalLoan10");
     }
+    @Test(groups = {"Smoke"})
+    public void PersonalLoan11()
+    {
+        System.out.println("PersonalLoan11");
+    }
 
 }
